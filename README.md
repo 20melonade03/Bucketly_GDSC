@@ -27,6 +27,6 @@ To run this project locally, follow these steps:
 #### 2)Navigate to the project directory:
     cd bucketly
 
-#### 3) Open index.html in your preferred web browser:
+#### 3) Open ```bash index.html``` in your preferred web browser:
     open index.html
    
