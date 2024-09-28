@@ -27,3 +27,4 @@ To run this project locally, follow these steps:
 
 2) ### Open index.html in your preferred web browser:
    open index.html
+   
