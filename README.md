@@ -19,7 +19,7 @@ Bucketly is a sleek and visually appealing travel bucket list web app designed t
 ## Installation and Usage
 To run this project locally, follow these steps:
 
-1) ### Clone the repository:
+### 1) Clone the repository:
    ```bash
    git clone https://github.com/your-repo/bucketly.git
    ```
