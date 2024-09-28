@@ -11,6 +11,12 @@ Bucketly is a sleek and visually appealing travel bucket list web app designed t
 
 
 ## Technologies Used
-#HTML: For structuring the web app.
-CSS: For styling and making the app visually appealing.
-JavaScript: For implementing functionality and interactivity.
+* HTML: For structuring the web app.
+* CSS: For styling and making the app visually appealing.
+* JavaScript: For implementing functionality and interactivity.
+
+
+## Installation and Usage
+To run this project locally, follow these steps:
+1) # Clone the repository:
+   git clone https://github.com/your-repo/bucketly.git
